@@ -2,7 +2,7 @@
   "name": "micro-host",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/anandkar/host-app.github.io.git/react-gh-pages",
+  "homepage": "https://anandkar.github.io/host-app",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
